@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"End&Begin","order":1,"parentId":0,"scrollX":900,"scrollY":560.6666666666666},
+{"id":2,"expanded":true,"name":"Capital","order":2,"parentId":0,"scrollX":900,"scrollY":560.6666666666666,"quick":false},
+{"id":3,"expanded":true,"name":"Monument","order":7,"parentId":0,"scrollX":900,"scrollY":560.6666666666666,"quick":false},
+{"id":4,"expanded":false,"name":"Castle","order":3,"parentId":2,"scrollX":900,"scrollY":571.3333333333334,"quick":false},
+{"id":5,"expanded":false,"name":"Tower","order":8,"parentId":3,"scrollX":900,"scrollY":748.6666666666666,"quick":false},
+null,
+null,
+{"id":8,"expanded":false,"name":"Swamp","order":9,"parentId":3,"scrollX":900,"scrollY":991.3333333333334,"quick":false},
+{"id":9,"expanded":false,"name":"Armor Shop","order":4,"parentId":2,"scrollX":900,"scrollY":571.3333333333334,"quick":false},
+{"id":10,"expanded":false,"name":"Church","order":5,"parentId":2,"scrollX":900,"scrollY":571.3333333333334,"quick":false},
+{"id":11,"expanded":false,"name":"Castle 1F","order":6,"parentId":2,"scrollX":900,"scrollY":560.6666666666666,"quick":false},
+{"id":12,"expanded":false,"name":"Stone Cave","order":10,"parentId":3,"scrollX":900,"scrollY":571.3333333333334,"quick":false}
+]
